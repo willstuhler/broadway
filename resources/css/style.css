@@ -1,17 +1,25 @@
 h1 {
   font-family: helvetica;
   font-size: 70px;
-  font-weight: bold;
   color: white;
 }
 
 .opening {
-  background-image: url("resources/images/building.png")
-}
+  background-image: url(../images/building.png);
+  text-align: center;
+  font-weight: bold;
 
+}
 .nav {
   font-family: helvetica;
   font-size: 18px;
+  color:white;
+
+}
+
+a {
   color: white;
+  font-size: 18px;
+  font-family: Helvetica;
 
 }

@@ -1,0 +1,17 @@
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.opening {
+  background-image: url("resources/images/building.png")
+}
+
+.nav {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+
+}

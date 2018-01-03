@@ -56,3 +56,15 @@ p {
     font-weight: bold;
 
 }
+
+#end p {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  font-family: helvetica;
+}
+
+#end p a {
+  font-size: 11px;
+}

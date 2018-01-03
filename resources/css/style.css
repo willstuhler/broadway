@@ -42,4 +42,17 @@ p {
   font-family: helvetica;
   font-size: 12px;
   text-align: center;
+  font-weight: bold;
+}
+
+.identify, .execute, .understand {
+  text-align: center;
+}
+
+#new-york {
+    background-image: url(../images/building.png);
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+
 }

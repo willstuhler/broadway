@@ -21,5 +21,25 @@ a {
   color: white;
   font-size: 18px;
   font-family: Helvetica;
+  text-align: center;
+}
 
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 12px;
+  text-align: center;
 }
